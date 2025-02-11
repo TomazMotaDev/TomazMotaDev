@@ -22,7 +22,7 @@ Cursando o Técnico em Desenvolvimento de Sistemas, minha formação fica atrela
 | **Lógica de programação** | Estudei Lógica de Programação pelo Portugol |
 | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | Banco de Dados que apreni ao longo do curso, tanto a parte de criação quanto administração |
 | ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) | Sou usuário Linux desde 2011, shell script e uso do terminal |
-| JavaScript 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Linguagem aprendida para trabalhar com Front-End |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | Linguagem aprendida para trabalhar com Front-End |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Linguagem de marcação fundamental para o Front-End |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Ferramenta que completa a trindade do Front-End e fundamental para a estilização |
 | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | Um estudo mais avançado na estilizaão de uma página web |
